@@ -1,0 +1,6 @@
+framework module Pods_UdemyPokeDecks {
+  umbrella header "Pods-UdemyPokeDecks-umbrella.h"
+
+  export *
+  module * { export * }
+}
